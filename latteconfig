@@ -1,0 +1,4 @@
+{
+    "upload_url": "上传词条使用的接口",
+    "sync_url": "./latte_sync.json"
+}
